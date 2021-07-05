@@ -1,1 +1,1 @@
-# kodluyoruz-css1
+## Bu proje kodluyoruz.com tarafından verilen css eğitimi için yapılmıştır
